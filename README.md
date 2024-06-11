@@ -1,2 +1,2 @@
 # Striver_Sheet
-Solutin to Striver Sheet. Link in README.md
+Solutions to Striver's A2Z Sheet.
